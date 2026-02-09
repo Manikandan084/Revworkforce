@@ -1,0 +1,300 @@
+2026-02-09 00:15:58 INFO  LoginMain - === RevWorkForce Login ===
+2026-02-09 00:15:58 INFO  LoginMain - Employee ID: 
+2026-02-09 00:16:27 INFO  LoginMain - === RevWorkForce Login ===
+2026-02-09 00:16:27 INFO  LoginMain - Employee ID: 
+2026-02-09 00:16:36 INFO  LoginMain - Password: 
+2026-02-09 00:16:40 INFO  LoginMain - Login Successful
+2026-02-09 00:16:40 INFO  LoginMain - Role: EMPLOYEE
+2026-02-09 00:16:40 INFO  EmployeeMenu - 
+ Checking notifications...
+2026-02-09 00:16:40 INFO  NotificationService - No new notifications.
+2026-02-09 00:16:40 INFO  EmployeeMenu - 
+ Company Announcements:
+2026-02-09 00:16:40 INFO  EmployeeMenu - important announcement | 2026-02-08 19:11:27.0
+2026-02-09 00:16:40 INFO  EmployeeMenu - 
+=== EMPLOYEE MENU ===
+2026-02-09 00:16:40 INFO  EmployeeMenu - Welcome: kevin
+2026-02-09 00:16:40 INFO  EmployeeMenu - 1. View Profile
+2026-02-09 00:16:40 INFO  EmployeeMenu - 2. Apply Leave
+2026-02-09 00:16:40 INFO  EmployeeMenu - 3. Performance Review
+2026-02-09 00:16:40 INFO  EmployeeMenu - 4. View Leave Balance
+2026-02-09 00:16:40 INFO  EmployeeMenu - 5. Set Yearly Goal
+2026-02-09 00:16:40 INFO  EmployeeMenu - 6. View My Goals
+2026-02-09 00:16:40 INFO  EmployeeMenu - 7. Edit Profile
+2026-02-09 00:16:40 INFO  EmployeeMenu - 8.  View Announcements
+2026-02-09 00:16:40 INFO  EmployeeMenu - 9. Logout
+2026-02-09 00:16:40 INFO  EmployeeMenu - Choose option: 
+2026-02-09 00:16:42 INFO  EmployeeMenu - 
+--- PROFILE ---
+2026-02-09 00:16:42 INFO  EmployeeMenu - ID   : 23
+2026-02-09 00:16:42 INFO  EmployeeMenu - Name : kevin
+2026-02-09 00:16:42 INFO  EmployeeMenu - Email: dfghjr
+2026-02-09 00:16:42 INFO  EmployeeMenu - Role : EMPLOYEE
+2026-02-09 00:16:42 INFO  EmployeeMenu - 
+=== EMPLOYEE MENU ===
+2026-02-09 00:16:42 INFO  EmployeeMenu - Welcome: kevin
+2026-02-09 00:16:42 INFO  EmployeeMenu - 1. View Profile
+2026-02-09 00:16:42 INFO  EmployeeMenu - 2. Apply Leave
+2026-02-09 00:16:43 INFO  EmployeeMenu - 3. Performance Review
+2026-02-09 00:16:43 INFO  EmployeeMenu - 4. View Leave Balance
+2026-02-09 00:16:43 INFO  EmployeeMenu - 5. Set Yearly Goal
+2026-02-09 00:16:43 INFO  EmployeeMenu - 6. View My Goals
+2026-02-09 00:16:43 INFO  EmployeeMenu - 7. Edit Profile
+2026-02-09 00:16:43 INFO  EmployeeMenu - 8.  View Announcements
+2026-02-09 00:16:43 INFO  EmployeeMenu - 9. Logout
+2026-02-09 00:16:43 INFO  EmployeeMenu - Choose option: 
+2026-02-09 00:16:49 INFO  EmployeeMenu - 
+Leave Type:
+2026-02-09 00:16:49 INFO  EmployeeMenu - 1. Casual Leave (CL)
+2026-02-09 00:16:49 INFO  EmployeeMenu - 2. Sick Leave (SL)
+2026-02-09 00:16:49 INFO  EmployeeMenu - 3. Paid Leave (PL)
+2026-02-09 00:16:49 INFO  EmployeeMenu - Choose option: 
+2026-02-09 00:16:51 INFO  EmployeeMenu - Start Date (YYYY-MM-DD): 
+2026-02-09 00:16:59 INFO  EmployeeMenu - End Date (YYYY-MM-DD): 
+2026-02-09 00:17:09 INFO  EmployeeMenu - Reason: 
+2026-02-09 00:17:18 INFO  EmployeeMenu - Leave Applied Successfully
+2026-02-09 00:17:18 INFO  EmployeeMenu - 
+=== EMPLOYEE MENU ===
+2026-02-09 00:17:18 INFO  EmployeeMenu - Welcome: kevin
+2026-02-09 00:17:18 INFO  EmployeeMenu - 1. View Profile
+2026-02-09 00:17:18 INFO  EmployeeMenu - 2. Apply Leave
+2026-02-09 00:17:18 INFO  EmployeeMenu - 3. Performance Review
+2026-02-09 00:17:18 INFO  EmployeeMenu - 4. View Leave Balance
+2026-02-09 00:17:18 INFO  EmployeeMenu - 5. Set Yearly Goal
+2026-02-09 00:17:18 INFO  EmployeeMenu - 6. View My Goals
+2026-02-09 00:17:18 INFO  EmployeeMenu - 7. Edit Profile
+2026-02-09 00:17:18 INFO  EmployeeMenu - 8.  View Announcements
+2026-02-09 00:17:18 INFO  EmployeeMenu - 9. Logout
+2026-02-09 00:17:18 INFO  EmployeeMenu - Choose option: 
+2026-02-09 00:17:27 INFO  EmployeeMenu - important announcement | 2026-02-08 19:11:27.0
+2026-02-09 00:17:27 INFO  EmployeeMenu - 
+=== EMPLOYEE MENU ===
+2026-02-09 00:17:27 INFO  EmployeeMenu - Welcome: kevin
+2026-02-09 00:17:27 INFO  EmployeeMenu - 1. View Profile
+2026-02-09 00:17:27 INFO  EmployeeMenu - 2. Apply Leave
+2026-02-09 00:17:27 INFO  EmployeeMenu - 3. Performance Review
+2026-02-09 00:17:27 INFO  EmployeeMenu - 4. View Leave Balance
+2026-02-09 00:17:27 INFO  EmployeeMenu - 5. Set Yearly Goal
+2026-02-09 00:17:27 INFO  EmployeeMenu - 6. View My Goals
+2026-02-09 00:17:27 INFO  EmployeeMenu - 7. Edit Profile
+2026-02-09 00:17:27 INFO  EmployeeMenu - 8.  View Announcements
+2026-02-09 00:17:27 INFO  EmployeeMenu - 9. Logout
+2026-02-09 00:17:27 INFO  EmployeeMenu - Choose option: 
+2026-02-09 00:17:37 INFO  EmployeeMenu - 
+--- My Goals ---
+2026-02-09 00:17:37 INFO  EmployeeMenu - 
+=== EMPLOYEE MENU ===
+2026-02-09 00:17:37 INFO  EmployeeMenu - Welcome: kevin
+2026-02-09 00:17:37 INFO  EmployeeMenu - 1. View Profile
+2026-02-09 00:17:37 INFO  EmployeeMenu - 2. Apply Leave
+2026-02-09 00:17:37 INFO  EmployeeMenu - 3. Performance Review
+2026-02-09 00:17:37 INFO  EmployeeMenu - 4. View Leave Balance
+2026-02-09 00:17:37 INFO  EmployeeMenu - 5. Set Yearly Goal
+2026-02-09 00:17:37 INFO  EmployeeMenu - 6. View My Goals
+2026-02-09 00:17:37 INFO  EmployeeMenu - 7. Edit Profile
+2026-02-09 00:17:37 INFO  EmployeeMenu - 8.  View Announcements
+2026-02-09 00:17:37 INFO  EmployeeMenu - 9. Logout
+2026-02-09 00:17:37 INFO  EmployeeMenu - Choose option: 
+2026-02-09 00:18:15 INFO  EmployeeMenu - Logging out...
+2026-02-09 00:18:23 INFO  LoginMain - === RevWorkForce Login ===
+2026-02-09 00:18:23 INFO  LoginMain - Employee ID: 
+2026-02-09 00:18:29 INFO  LoginMain - Password: 
+2026-02-09 00:18:33 INFO  LoginMain - Login Successful
+2026-02-09 00:18:33 INFO  LoginMain - Role: ADMIN
+2026-02-09 00:18:33 INFO  AdminMenu - 
+=== ADMIN MENU ===
+2026-02-09 00:18:33 INFO  AdminMenu - 1. Add Employee
+2026-02-09 00:18:33 INFO  AdminMenu - 2. View All Employees
+2026-02-09 00:18:33 INFO  AdminMenu - 3. Update Employee Leave Balance
+2026-02-09 00:18:33 INFO  AdminMenu - 4. View Employee Goals
+2026-02-09 00:18:33 INFO  AdminMenu - 5. Post Announcement
+2026-02-09 00:18:33 INFO  AdminMenu - 6. Logout
+2026-02-09 00:18:33 INFO  AdminMenu - Choose option: 
+2026-02-09 00:18:38 INFO  AdminMenu - 
+--- Employee List ---
+2026-02-09 00:18:38 INFO  AdminMenu - 1 | null | Manikandan | null
+2026-02-09 00:18:38 INFO  AdminMenu - 2 | null | nenishkanth | null
+2026-02-09 00:18:38 INFO  AdminMenu - 3 | null |  vijay | null
+2026-02-09 00:18:38 INFO  AdminMenu - 4 | null | jefrin | null
+2026-02-09 00:18:38 INFO  AdminMenu - 5 | null | venkat | null
+2026-02-09 00:18:38 INFO  AdminMenu - 6 | null | leo |  EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 7 | null | Manager User | MANAGER
+2026-02-09 00:18:38 INFO  AdminMenu - 8 | null | Admin User | ADMIN
+2026-02-09 00:18:38 INFO  AdminMenu - 9 | null | nila | ADMIN
+2026-02-09 00:18:38 INFO  AdminMenu - 10 | null | Admin | ADMIN
+2026-02-09 00:18:38 INFO  AdminMenu - 11 | null | Manager | MANAGER
+2026-02-09 00:18:38 INFO  AdminMenu - 12 | null | kani | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 13 | null | uma | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 14 | null | honey | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 15 | null | kamal | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 16 | null | jeeva | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 17 | null | charan | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 18 | null | hari | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 19 | null | james | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 20 | null | diwa | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 21 | null | gopal | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 22 | null | TestUser | null
+2026-02-09 00:18:38 INFO  AdminMenu - 23 | null | kevin | EMPLOYEE
+2026-02-09 00:18:38 INFO  AdminMenu - 
+=== ADMIN MENU ===
+2026-02-09 00:18:38 INFO  AdminMenu - 1. Add Employee
+2026-02-09 00:18:38 INFO  AdminMenu - 2. View All Employees
+2026-02-09 00:18:38 INFO  AdminMenu - 3. Update Employee Leave Balance
+2026-02-09 00:18:38 INFO  AdminMenu - 4. View Employee Goals
+2026-02-09 00:18:38 INFO  AdminMenu - 5. Post Announcement
+2026-02-09 00:18:38 INFO  AdminMenu - 6. Logout
+2026-02-09 00:18:38 INFO  AdminMenu - Choose option: 
+2026-02-09 00:19:42 INFO  LoginMain - === RevWorkForce Login ===
+2026-02-09 00:19:42 INFO  LoginMain - Employee ID: 
+2026-02-09 00:19:47 INFO  LoginMain - Password: 
+2026-02-09 00:19:51 INFO  LoginMain - Login Successful
+2026-02-09 00:19:51 INFO  LoginMain - Role: ADMIN
+2026-02-09 00:19:51 INFO  AdminMenu - 
+=== ADMIN MENU ===
+2026-02-09 00:19:51 INFO  AdminMenu - 1. Add Employee
+2026-02-09 00:19:51 INFO  AdminMenu - 2. View All Employees
+2026-02-09 00:19:51 INFO  AdminMenu - 3. Update Employee Leave Balance
+2026-02-09 00:19:51 INFO  AdminMenu - 4. View Employee Goals
+2026-02-09 00:19:51 INFO  AdminMenu - 5. Post Announcement
+2026-02-09 00:19:51 INFO  AdminMenu - 6. Logout
+2026-02-09 00:19:51 INFO  AdminMenu - Choose option: 
+2026-02-09 00:19:55 INFO  AdminMenu - 
+--- Employee List ---
+2026-02-09 00:19:55 INFO  AdminMenu - 1 | Manikandan | null
+2026-02-09 00:19:55 INFO  AdminMenu - 2 | nenishkanth | null
+2026-02-09 00:19:55 INFO  AdminMenu - 3 |  vijay | null
+2026-02-09 00:19:55 INFO  AdminMenu - 4 | jefrin | null
+2026-02-09 00:19:55 INFO  AdminMenu - 5 | venkat | null
+2026-02-09 00:19:55 INFO  AdminMenu - 6 | leo |  EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 7 | Manager User | MANAGER
+2026-02-09 00:19:55 INFO  AdminMenu - 8 | Admin User | ADMIN
+2026-02-09 00:19:55 INFO  AdminMenu - 9 | nila | ADMIN
+2026-02-09 00:19:55 INFO  AdminMenu - 10 | Admin | ADMIN
+2026-02-09 00:19:55 INFO  AdminMenu - 11 | Manager | MANAGER
+2026-02-09 00:19:55 INFO  AdminMenu - 12 | kani | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 13 | uma | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 14 | honey | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 15 | kamal | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 16 | jeeva | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 17 | charan | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 18 | hari | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 19 | james | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 20 | diwa | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 21 | gopal | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 22 | TestUser | null
+2026-02-09 00:19:55 INFO  AdminMenu - 23 | kevin | EMPLOYEE
+2026-02-09 00:19:55 INFO  AdminMenu - 
+=== ADMIN MENU ===
+2026-02-09 00:19:55 INFO  AdminMenu - 1. Add Employee
+2026-02-09 00:19:55 INFO  AdminMenu - 2. View All Employees
+2026-02-09 00:19:55 INFO  AdminMenu - 3. Update Employee Leave Balance
+2026-02-09 00:19:55 INFO  AdminMenu - 4. View Employee Goals
+2026-02-09 00:19:55 INFO  AdminMenu - 5. Post Announcement
+2026-02-09 00:19:55 INFO  AdminMenu - 6. Logout
+2026-02-09 00:19:55 INFO  AdminMenu - Choose option: 
+2026-02-09 00:20:11 INFO  AdminMenu - Enter Employee ID: 
+2026-02-09 00:20:19 INFO  AdminMenu - Enter CL balance: 
+2026-02-09 00:20:21 INFO  AdminMenu - Enter SL balance: 
+2026-02-09 00:20:23 INFO  AdminMenu - Enter PL balance: 
+2026-02-09 00:20:24 INFO  AdminMenu - 
+=== ADMIN MENU ===
+2026-02-09 00:20:24 INFO  AdminMenu - 1. Add Employee
+2026-02-09 00:20:24 INFO  AdminMenu - 2. View All Employees
+2026-02-09 00:20:24 INFO  AdminMenu - 3. Update Employee Leave Balance
+2026-02-09 00:20:24 INFO  AdminMenu - 4. View Employee Goals
+2026-02-09 00:20:24 INFO  AdminMenu - 5. Post Announcement
+2026-02-09 00:20:24 INFO  AdminMenu - 6. Logout
+2026-02-09 00:20:24 INFO  AdminMenu - Choose option: 
+2026-02-09 00:20:48 INFO  AdminMenu - Logging out...
+2026-02-09 00:20:55 INFO  LoginMain - === RevWorkForce Login ===
+2026-02-09 00:20:55 INFO  LoginMain - Employee ID: 
+2026-02-09 00:21:02 INFO  LoginMain - Password: 
+2026-02-09 00:21:05 INFO  LoginMain - Login Successful
+2026-02-09 00:21:05 INFO  LoginMain - Role: EMPLOYEE
+2026-02-09 00:21:05 INFO  EmployeeMenu - 
+ Checking notifications...
+2026-02-09 00:21:05 INFO  NotificationService - No new notifications.
+2026-02-09 00:21:05 INFO  EmployeeMenu - 
+ Company Announcements:
+2026-02-09 00:21:05 INFO  EmployeeMenu - important announcement | 2026-02-08 19:11:27.0
+2026-02-09 00:21:05 INFO  EmployeeMenu - 
+=== EMPLOYEE MENU ===
+2026-02-09 00:21:05 INFO  EmployeeMenu - Welcome: kevin
+2026-02-09 00:21:05 INFO  EmployeeMenu - 1. View Profile
+2026-02-09 00:21:05 INFO  EmployeeMenu - 2. Apply Leave
+2026-02-09 00:21:05 INFO  EmployeeMenu - 3. Performance Review
+2026-02-09 00:21:05 INFO  EmployeeMenu - 4. View Leave Balance
+2026-02-09 00:21:05 INFO  EmployeeMenu - 5. Set Yearly Goal
+2026-02-09 00:21:05 INFO  EmployeeMenu - 6. View My Goals
+2026-02-09 00:21:05 INFO  EmployeeMenu - 7. Edit Profile
+2026-02-09 00:21:05 INFO  EmployeeMenu - 8.  View Announcements
+2026-02-09 00:21:05 INFO  EmployeeMenu - 9. Logout
+2026-02-09 00:21:05 INFO  EmployeeMenu - Choose option: 
+2026-02-09 00:21:17 INFO  EmployeeMenu - 
+--- Leave Balance ---
+2026-02-09 00:21:17 INFO  EmployeeMenu - Casual Leave : 3
+2026-02-09 00:21:17 INFO  EmployeeMenu - Sick Leave   : 2
+2026-02-09 00:21:17 INFO  EmployeeMenu - Paid Leave   : 1
+2026-02-09 00:21:17 INFO  EmployeeMenu - 
+=== EMPLOYEE MENU ===
+2026-02-09 00:21:17 INFO  EmployeeMenu - Welcome: kevin
+2026-02-09 00:21:17 INFO  EmployeeMenu - 1. View Profile
+2026-02-09 00:21:17 INFO  EmployeeMenu - 2. Apply Leave
+2026-02-09 00:21:17 INFO  EmployeeMenu - 3. Performance Review
+2026-02-09 00:21:17 INFO  EmployeeMenu - 4. View Leave Balance
+2026-02-09 00:21:17 INFO  EmployeeMenu - 5. Set Yearly Goal
+2026-02-09 00:21:17 INFO  EmployeeMenu - 6. View My Goals
+2026-02-09 00:21:17 INFO  EmployeeMenu - 7. Edit Profile
+2026-02-09 00:21:17 INFO  EmployeeMenu - 8.  View Announcements
+2026-02-09 00:21:17 INFO  EmployeeMenu - 9. Logout
+2026-02-09 00:21:17 INFO  EmployeeMenu - Choose option: 
+2026-02-09 00:21:24 INFO  EmployeeMenu - Logging out...
+2026-02-09 00:21:30 INFO  LoginMain - === RevWorkForce Login ===
+2026-02-09 00:21:31 INFO  LoginMain - Employee ID: 
+2026-02-09 00:21:37 INFO  LoginMain - Password: 
+2026-02-09 00:21:43 INFO  LoginMain - Login Successful
+2026-02-09 00:21:43 INFO  LoginMain - Role: MANAGER
+2026-02-09 00:21:43 INFO  ManagerMenu - 
+=== MANAGER MENU ===
+2026-02-09 00:21:43 INFO  ManagerMenu - Welcome Manager: Manager
+2026-02-09 00:21:43 INFO  ManagerMenu - 1. View Pending Leaves
+2026-02-09 00:21:43 INFO  ManagerMenu - 2. Approve / Reject Leave
+2026-02-09 00:21:43 INFO  ManagerMenu - 3. View Performance Reviews
+2026-02-09 00:21:43 INFO  ManagerMenu - 4. Give Performance Feedback
+2026-02-09 00:21:43 INFO  ManagerMenu - 5. Review Employee Goals
+2026-02-09 00:21:43 INFO  ManagerMenu - 6. View Announcements
+2026-02-09 00:21:43 INFO  ManagerMenu - 7. Logout
+2026-02-09 00:21:43 INFO  ManagerMenu - Choose option: 
+2026-02-09 00:21:46 INFO  ManagerMenu - 
+--- Pending Leave Requests ---
+2026-02-09 00:21:46 INFO  ManagerMenu - Leave ID: 18 | Emp ID: 23 | Type: CL | From: 2026-09-13 | To: 2026-09-15 | Reason: normal leave | Status: PENDING
+2026-02-09 00:21:46 INFO  ManagerMenu - 
+=== MANAGER MENU ===
+2026-02-09 00:21:46 INFO  ManagerMenu - Welcome Manager: Manager
+2026-02-09 00:21:46 INFO  ManagerMenu - 1. View Pending Leaves
+2026-02-09 00:21:46 INFO  ManagerMenu - 2. Approve / Reject Leave
+2026-02-09 00:21:46 INFO  ManagerMenu - 3. View Performance Reviews
+2026-02-09 00:21:46 INFO  ManagerMenu - 4. Give Performance Feedback
+2026-02-09 00:21:46 INFO  ManagerMenu - 5. Review Employee Goals
+2026-02-09 00:21:46 INFO  ManagerMenu - 6. View Announcements
+2026-02-09 00:21:46 INFO  ManagerMenu - 7. Logout
+2026-02-09 00:21:46 INFO  ManagerMenu - Choose option: 
+2026-02-09 00:22:06 INFO  ManagerMenu - 
+--- Pending Leave Requests ---
+2026-02-09 00:22:06 INFO  ManagerMenu - Leave ID: 18 | Emp ID: 23 | Type: CL | From: 2026-09-13 | To: 2026-09-15 | Reason: normal leave | Status: PENDING
+2026-02-09 00:22:06 INFO  ManagerMenu - 
+=== MANAGER MENU ===
+2026-02-09 00:22:06 INFO  ManagerMenu - Welcome Manager: Manager
+2026-02-09 00:22:06 INFO  ManagerMenu - 1. View Pending Leaves
+2026-02-09 00:22:06 INFO  ManagerMenu - 2. Approve / Reject Leave
+2026-02-09 00:22:06 INFO  ManagerMenu - 3. View Performance Reviews
+2026-02-09 00:22:06 INFO  ManagerMenu - 4. Give Performance Feedback
+2026-02-09 00:22:06 INFO  ManagerMenu - 5. Review Employee Goals
+2026-02-09 00:22:06 INFO  ManagerMenu - 6. View Announcements
+2026-02-09 00:22:06 INFO  ManagerMenu - 7. Logout
+2026-02-09 00:22:06 INFO  ManagerMenu - Choose option: 
+2026-02-09 00:22:14 INFO  ManagerMenu - Enter Review ID: 
+2026-02-09 00:26:00 INFO  LoginMain - === RevWorkForce Login ===
+2026-02-09 00:26:00 INFO  LoginMain - Employee ID: 
+2026-02-09 00:29:01 INFO  LoginMain - === RevWorkForce Login ===
+2026-02-09 00:29:01 INFO  LoginMain - Employee ID: 
